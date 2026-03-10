@@ -5,7 +5,7 @@ A command-line C++ program that processes large text files using a fixed-size bu
 ## How to Compile
 
 ```bash
-g++ -std=c++17 -O3 240608_mahi.cpp -o analyzer
+g++ -std=c++17 -O3 main.cpp -o analyzer
 ```
 
 ## How to Run
