@@ -1,6 +1,6 @@
 # Memory-Efficient Versioned File Indexer
 
-A command-line C++ program that processes large text files using a fixed-size buffer and builds a word-level index to support analytical queries.
+A command-line C++ program that processes large text files using a fixed-size buffer and builds a word-level index to support analytical queries. This project was built as part of the course CS253.
 
 ## How to Compile
 
